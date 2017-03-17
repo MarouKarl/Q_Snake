@@ -1,8 +1,8 @@
-SOLVING THE SNAKE GAME WITH Q-LEARNING 
+<font size="6"> SOLVING THE SNAKE GAME WITH Q-LEARNING </font>
 by Marouane YALA and Karl BOU ABBOUD
 
 
-I \ ----REQUIREMENT---- :
+<b>I \ ----REQUIREMENT---- :</b>
 
 1 - Pygame : 
 Download : http://www.pygame.org/download.shtml 
